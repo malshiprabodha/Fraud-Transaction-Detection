@@ -28,7 +28,6 @@ The dataset contains transaction records with the following features:
 
 The dataset is distributed across multiple daily `.pkl` files.
 
----
 
 ## 🛠 Technologies Used
 
